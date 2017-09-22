@@ -4,7 +4,7 @@ ExoPlanet Mission
 
 ![exoplanet](img/exoplanet.jpg)
 
-__ExoPlanet__ is an imaginary planetary exploration mission related to my final thesis _"Concept and Simulation for Autonomous Navigation of Planetary Rovers"_ [[DLR elib](http://elib.dlr.de/72296/)] for the space engineering programme of the Berlin [Institute of Technology](http://www.raumfahrttechnik.tu-berlin.de). Based on this mission (the name was selected referring to the planned ESA [ExoMars](http://www.esa.int/SPECIALS/ExoMars/index.html) mission), I present a base concept for the rover navigation. Therefore the The Sensor-based Random Tree (SRT) [Method](http://www.dis.uniroma1.it/~labrob/research/SRT.html) was adapted to work in 3D environments. As the practical part, the thesis consists of the development of an application for terrain rendering and visual sensor simulation. A generated planetary landscape was used for a basic proof of the navigation algorithms. The application is splitted into two sub projects:
+__ExoPlanet__ is an imaginary planetary exploration mission related to my [final thesis](http://elib.dlr.de/72296/) _"Concept and Simulation for Autonomous Navigation of Planetary Rovers"_ for the space engineering programme of the Berlin [Institute of Technology](http://www.raumfahrttechnik.tu-berlin.de). Based on this mission (the name was selected referring to the planned ESA [ExoMars](http://www.esa.int/SPECIALS/ExoMars/index.html) mission), I present a base concept for the rover navigation. Therefore the The Sensor-based Random Tree (SRT) [Method](http://www.dis.uniroma1.it/~labrob/research/SRT.html) was adapted to work in 3D environments. As the practical part, the thesis consists of the development of an application for terrain rendering and visual sensor simulation. A generated planetary landscape was used for a basic proof of the navigation algorithms. The application is splitted into two sub projects:
 
 __ExoSim__
 
@@ -19,6 +19,9 @@ A client for the simulated sensor data to run navigation and path planning tasks
 * [Video Gallery](#video-gallery) for examples and results
 * [More Videos](#more-videos) of related experiments
 
+* List of [literature](https://rawgit.com/orbital-lab/ExoPlanet/master/references/referencelist.html)
+* [Presentation](presentation/ProViScout.pdf) for the [ProViScout](http://www.proviscout.eu) project
+
 ### About
 
 me: [stefan kral](&#109;ailt&#111;&#58;&#115;epp&#105;z&#64;&#103;mx&#46;de)
@@ -28,7 +31,7 @@ Video Gallery
 
 [![flight](img/flight.png)](http://vimeo.com/22314989)
 
-The rendered MRO [terrain model](http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_001513_1655) together with the related ortho image as texture. The selected Mars region is around Husband Hill (the landing site of the Mars Exploration Rover Spirit
+The rendered MRO [terrain model](http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_001513_1655) together with the related ortho image as texture. The selected Mars region is around Husband Hill (the landing site of the Mars Exploration Rover Spirit).
 
 [![terrain](img/terrain.png)](http://vimeo.com/22313790)
 
